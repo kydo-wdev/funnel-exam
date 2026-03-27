@@ -12,7 +12,6 @@ interface MultiChoiceStepProps {
 export default function MultiChoiceStep({
   step,
   initialValue,
-  onAnswer,
   onContinue,
 }: MultiChoiceStepProps) {
   const [selected, setSelected] = useState<Set<string>>(new Set());

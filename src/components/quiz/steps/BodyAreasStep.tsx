@@ -8,7 +8,7 @@ interface BodyAreasStepProps {
   onContinue: (value: string) => void;
 }
 
-export default function BodyAreasStep({ step, onAnswer, onContinue }: BodyAreasStepProps) {
+export default function BodyAreasStep({ step, onContinue }: BodyAreasStepProps) {
   const [selected, setSelected] = useState<Set<string>>(new Set());
 
   const toggle = (id: string) => {
