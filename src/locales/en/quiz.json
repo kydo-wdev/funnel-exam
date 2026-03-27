@@ -1,0 +1,24 @@
+{
+  "quiz": {
+    "title": "Cortisol Challenge",
+    "subtitle": "According to your age",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "steps": {
+    "gender":               { "question": "What's your gender?" },
+    "stress":               { "question": "How often do you feel stressed?" },
+    "goal":                 { "question": "What is your goal?" },
+    "body-type":            { "question": "Choose your body type" },
+    "body-areas":           { "question": "Any areas you'd like to improve?", "subtitle": "If you're happy with your appearance, then press Continue" },
+    "body-weight-content":  { "question": "When was the last time you were content with your body weight?" },
+    "info-stress-hormones": { "title": "The impact of stress hormones on your body:" },
+    "info-relax":           { "title": "Relax your body and find peace of mind." }
+  },
+  "age": {
+    "18-25": "18–25",
+    "26-35": "26–35",
+    "36-45": "36–45",
+    "46+": "46+"
+  }
+}

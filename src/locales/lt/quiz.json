@@ -1,0 +1,26 @@
+{
+  "quiz": {
+    "title": "Kortizolio iššūkis",
+    "subtitle": "Pagal jūsų amžių",
+    "continue": "Tęsti",
+    "back": "Atgal"
+  },
+  "steps": {
+    "gender": {
+      "question": "Kokia jūsų lytis?"
+    },
+    "stress": {
+      "question": "Kaip dažnai jaučiatės susitempę?"
+    },
+    "info-stress-hormones": {
+      "title": "Streso hormonų poveikis jūsų organizmui:",
+      "body": "Kortizolis vaidina svarbų vaidmenį jūsų kūno reakcijoje į stresą ir veikia jūsų gebėjimą valdyti svorį."
+    }
+  },
+  "age": {
+    "18-25": "18–25",
+    "26-35": "26–35",
+    "36-45": "36–45",
+    "46+": "46+"
+  }
+}
